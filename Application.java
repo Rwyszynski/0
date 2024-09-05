@@ -67,4 +67,4 @@ public class Application {
         String wart = uzytkownik.getImie();
         System.out.println(wart);
     }
-}
+}ttt
